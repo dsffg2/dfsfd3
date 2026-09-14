@@ -1,7 +1,7 @@
 {
-  "version": "1.6",
+  "version": "1.4",
   "download": "https://raw.githubusercontent.com/dsffg2/dfsfd3/main/example.exe",
   "sha256": "358822BD3C34DEAE4E324169143113CB1A1A89CD1B5943B55566F7DFA372D9CE",
   "required": true,
-  "notes": "Version 1.6 update."
+  "notes": "Version 1.4 update."
 }
